@@ -68,7 +68,7 @@ object roque {
   var pajaro = pepita  
   var cantCenas = 0 
   
-  method ave(_ave){ // defino un metodo para poder modificar la variable 'pajaro'
+  method entrenar(_ave){ // defino un metodo para poder modificar la variable 'pajaro'
     pajaro = _ave
     cantCenas = 0
   }
